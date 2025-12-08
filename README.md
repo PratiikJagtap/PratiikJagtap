@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Pratik
 
-<!--
-**PratiikJagtap/PratiikJagtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer Trainee | Data Scientist | Data Analyst
 
-Here are some ideas to get you started:
+I work with Python, Machine Learning, Deep Learning, SQL, and Power BI to build data-driven solutions. I enjoy creating projects that turn raw data into meaningful insights and deploying models that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently learning: Advanced ML & Deep Learning
+
+📊 Interested in: AI Engineering, Data Science, and Analytics
+
+💼 Open to internships & full-time opportunities
+
+📫 Reach me: pratikjagtapofficial@gmail.com
