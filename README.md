@@ -8,6 +8,6 @@ I work with Python, Machine Learning, Deep Learning, SQL, and Power BI to build 
 
 📊 Interested in: AI Engineering, Data Science, and Analytics
 
-💼 Open to internships & full-time opportunities
+💼 Open to internships & full-time opportunities — Immediate Joiner
 
 📫 Reach me: pratikjagtapofficial@gmail.com
