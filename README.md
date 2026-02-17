@@ -1,15 +1,21 @@
 👋 Hi, I’m Pratik
 
-AI/ML Engineer | Data Scientist | Data Analyst
+Aspiring AI/ML Engineer | Generative AI Enthusiast
 
-I work with Python, Machine Learning, Deep Learning, SQL, and Power BI to build data-driven solutions. I enjoy creating projects that turn raw data into meaningful insights and deploying models that solve real problems.
+I am a fresher with strong hands-on experience in Machine Learning and Generative AI. I build end-to-end ML projects and experiment with LLM-based applications using RAG pipelines, prompt engineering, and NLP techniques.
 
-🔭 Currently learning: Artificial Intelligence Engineer (Certification Program) — DataMites, Pune (On-site)
+My focus is on understanding systems deeply — from data preprocessing and feature engineering to model training, evaluation, and deployment. I enjoy building practical AI solutions that solve real-world problems.
 
-📊 Interested in: AI Engineering, Machine Learning, deep Learning, Data Science, and Analytics
+🎓 Certified Artificial Intelligence Engineer — DataMites, Pune (On-site)
 
-💼 Open to internships & full-time opportunities — Immediate Joiner
+🔬 Core Interests:
+• Machine Learning & Deep Learning
+• Large Language Models (LLMs)
+• Retrieval-Augmented Generation (RAG)
+• NLP & AI Applications
 
-📫 Reach me: pratikjagtapofficial@gmail.com
+💼 Open to AI/ML & GenAI roles — Immediate Joiner
 
-🔭 My Portfolio: https://pratiikjagtap.github.io/Pratik_Jagtap_Portfolio/
+📫 pratikjagtapofficial@gmail.com
+
+🌐 Portfolio: https://pratiikjagtap.github.io/Pratik_Jagtap_Portfolio/
