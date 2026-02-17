@@ -18,4 +18,4 @@ My focus is on understanding systems deeply — from data preprocessing and feat
 
 📫 pratikjagtapofficial@gmail.com
 
-🌐 Portfolio: [https://pratiikjagtap.github.io/Pratik_Jagtap_Portfolio/](https://pratikjagtapofficial.github.io/Pratik_Jagtap_Portfolio/)
+🌐 Portfolio: https://pratik-jagtap-portfolio.owlstown.net
