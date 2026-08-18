@@ -1,21 +1,13 @@
-👋 Hi, I’m Pratik
-
-Aspiring AI/ML Engineer | Generative AI Enthusiast
-
-I am a fresher with strong hands-on experience in Machine Learning and Generative AI. I build end-to-end ML projects and experiment with LLM-based applications using RAG pipelines, prompt engineering, and NLP techniques.
-
-My focus is on understanding systems deeply — from data preprocessing and feature engineering to model training, evaluation, and deployment. I enjoy building practical AI solutions that solve real-world problems.
-
+👋 Hi, I'm Pratik
+AI Developer | Generative AI & Agentic AI Systems
+I'm an AI Developer at HireTalent, building end-to-end ML and GenAI systems — from data preprocessing and feature engineering to model training, evaluation, and deployment. I specialize in LLM-based applications using RAG pipelines, LangChain, Model Context Protocol (MCP), and prompt engineering to build practical AI solutions that solve real business problems.
+🎓 MCA, Sinhgad Institute of Management, Pune
 🎓 Certified Artificial Intelligence Engineer — DataMites, Pune (On-site)
-
 🔬 Core Interests:
-• Machine Learning & Deep Learning
-• Large Language Models (LLMs)
+• Large Language Models (LLMs) & Agentic AI
 • Retrieval-Augmented Generation (RAG)
-• NLP & AI Applications
-
-💼 Open to AI/ML & GenAI roles — Immediate Joiner
-
+• NLP & Multi-Agent Systems
+• Vector Databases & Semantic Search
+💼 Open to AI/ML & GenAI Engineer roles
 📫 pratikjagtapofficial@gmail.com
-
-🌐 Portfolio: https://pratik-jagtap-portfolio.owlstown.net
+🔗 LinkedIn: https://www.linkedin.com/in/pratikdjagtap/
